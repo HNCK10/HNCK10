@@ -1,6 +1,3 @@
 ---Hi there, I am @HNCK10, currently studying software development and researching every technology I can!
----Recently got @python certified on an international scale.
----Hopefully many more certifications to come, I also invest in cryptocurrency(hashing)
----Would love to make my own coin! My own manga is a dream haha 
 ---To learn AI and Machine Learning and get a job in that field would be amazing.
----For now I am keen to learn multiple technologies, blockchain, tangle, oracles and it all!
+---For now I am keen to learn multiple technologies and get experience in the field!
